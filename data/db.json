@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "I'm so exicted for my first Blog",
+      "author": "anindita",
+      "id": 1
+    },
+    {
+      "title": "Welcome to Aninland!",
+      "body": "Only one person is allowed into my palace",
+      "author": "anin",
+      "id": 2
+    },
+    {
+      "title": "weirdo",
+      "body": "weirdass",
+      "author": "anin",
+      "id": 7
+    }
+  ]
+}
